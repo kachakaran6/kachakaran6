@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kachakaran06@gmail.com**
 
-- ⚡ Fun fact **Non-It (IKYK)**
+- ⚡ Fun fact **Non-It (IYKYK)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

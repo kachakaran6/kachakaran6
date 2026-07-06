@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kachakaran6" alt="kachakaran6" /></a> </p>
 
-- 🔭 I’m currently working on [Travel PLanner](https://travel-planner-two-psi.vercel.app/)
+- 🔭 I’m currently working on [Samast](https://www.samast.pro)
 
 - 🌱 I’m currently learning **React.js, Next.js, AI, DL, Etc**
 
-- 👨‍💻 All of my projects are available at [https://kk-portfolio-website.vercel.app/](https://kk-portfolio-website.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio ](https://kachakaran.me/)
 
 - 💬 Ask me about **react**
 

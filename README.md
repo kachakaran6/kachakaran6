@@ -1,109 +1,122 @@
-<!-- Modern GitHub Profile README for github.com/kachakaran6 -->
+# Kacha Karan
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7C3AED,50:2563EB,100:06B6D4&text=Kacha%20Karan&fontColor=f8fafc&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20AI%20Explorer&descAlignY=60&descSize=17&animation=fadeIn" alt="Kacha Karan — Full-Stack Developer" />
+### Software Engineer · Product Builder · AI Explorer
 
-<div align="center">
+I design and build useful digital products - from software and APIs to automation, infrastructure, and deployment.
 
-### I design and build useful digital products—from interface to infrastructure.
+Based in India · Building [Samast](https://www.samast.pro/) · Exploring AI-powered software
 
-Based in India 🇮🇳 &nbsp;·&nbsp; Building **[Samast](https://www.samast.pro)** &nbsp;·&nbsp; Exploring **AI-powered software**
+<p>
+  <a href="https://kachakaran.me/"><img src="https://img.shields.io/badge/Portfolio-Visit-24292f?style=flat-square" alt="Visit portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kacha-karan-5337731b2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-24292f?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/kachakaran6"><img src="https://img.shields.io/badge/GitHub-Follow-24292f?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+  <a href="mailto:kachakaran06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+</p>
 
-<br />
-
-<a href="https://kachakaran.me/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/kacha-karan-5337731b2/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/kacha_karan_"><img src="https://img.shields.io/badge/@kacha__karan__-0891B2?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://instagram.com/kacha_karan_"><img src="https://img.shields.io/badge/Instagram-DB2777?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:kachakaran06@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-F97316?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=kachakaran6&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/kachakaran6?label=FOLLOWERS&style=flat-square&color=06b6d4" alt="GitHub followers" />
-
-</div>
-
-<br />
+---
 
 ## About
 
-I'm a full-stack developer who enjoys turning early ideas into clean, dependable products. My work sits at the intersection of **thoughtful interfaces**, **practical engineering**, and **continuous experimentation**.
+I'm a software engineer focused on turning ideas into useful, dependable products.
 
-I’m currently focused on the React and Next.js ecosystem while expanding into artificial intelligence, machine learning, and deep learning. Coming from a non-IT background taught me to learn independently, adapt quickly, and keep building even when the path is unconventional.
+I work across application development, backend systems, databases, APIs, automation, infrastructure, and deployment. I enjoy taking products from an initial idea through development, deployment, and continuous refinement.
 
-```ts
-const Karan = {
-  role: "Full-Stack Developer",
-  building: "Samast",
-  learning: ["Next.js", "AI", "Machine Learning", "Deep Learning"],
-  interests: ["SaaS", "Developer Tools", "Product Engineering"],
-  principle: "Build with purpose. Learn without limits."
-};
-```
+Currently exploring AI, machine learning, infrastructure, and developer tooling alongside modern application development.
 
-## Selected Work
+## Current Focus
 
-### Samast &nbsp;↗
+- Building and shipping independent products
+- Software engineering and product development
+- Backend systems, APIs, and database architecture
+- Automation and developer tooling
+- Cloud infrastructure and deployment
+- Exploring AI, machine learning, and practical AI applications
 
-**A product shaped around real needs and thoughtful execution.**  
-I’m actively designing, developing, and improving Samast while applying modern full-stack practices across the product.
+## Projects
 
-[View live product →](https://www.samast.pro) &nbsp;&nbsp; [Explore my portfolio →](https://kachakaran.me/)
+### Mobile Applications
 
-## Technologies
+- <img src="./assets/icons/vaultx.png" width="24" height="24" align="center" alt="VaultX icon" /> **[VaultX](https://play.google.com/store/apps/details?id=com.vaultx.vault_x)** - Secure personal vault for passwords, links, notes, and sensitive information. · `Live`
+- <img src="./assets/icons/trust-tracker.png" width="24" height="24" align="center" alt="TrustTracker icon" /> **[TrustTracker](https://play.google.com/store/apps/details?id=com.trusttracker.trust_tracker_flutter)** - Personal finance app for tracking income, expenses, and everyday spending. · `Live`
+- <img src="./assets/icons/snapdocs.png" width="24" height="24" align="center" alt="SnapDocs icon" /> **[SnapDocs](https://play.google.com/store/apps/details?id=com.snapdocs.app)** - Offline document scanner and organizer with PDF management and export. · `Live`
+- <img src="./assets/icons/divine-geeta.png" width="24" height="24" align="center" alt="Divine Geeta icon" /> **[Divine Geeta](https://play.google.com/store/apps/details?id=com.divinegeeta.app)** - Digital Bhagavad Gita reader for exploring chapters and verses. · `Live`
+- <img src="./assets/icons/noctune.png" width="24" height="24" align="center" alt="Noctune icon" /> **[Noctune](https://play.google.com/store/apps/details?id=com.noctune.music)** - Modern offline music player designed for a clean listening experience. · `Live`
+- <img src="./assets/icons/taskmitra.png" width="24" height="24" align="center" alt="TaskMitra icon" /> **[TaskMitra](https://play.google.com/store/apps/details?id=com.taskmitra.application)** - Productivity app for organizing and managing everyday tasks. · `Testing`
+- <img src="./assets/icons/video-downloader.png" width="24" height="24" align="center" alt="Video Downloader icon" /> **[Video Downloader](https://play.google.com/store/apps/details?id=app.mediaurl.applicaiton)** - Utility app for downloading and managing supported media content. · `Testing`
+- <img src="./assets/icons/luna.png" width="24" height="24" align="center" alt="Luna icon" /> **[Luna](https://play.google.com/store/apps/details?id=com.luna.application)** - Personal utility and productivity application for everyday digital needs. · `Testing`
+- <img src="./assets/icons/gymbuddy.png" width="24" height="24" align="center" alt="GymBuddy icon" /> **[GymBuddy](https://play.google.com/store/apps/details?id=com.gymbuddy.application)** - Fitness companion for managing workouts and training progress. · `Testing`
+- <img src="./assets/icons/habitly.png" width="24" height="24" align="center" alt="Habitly icon" /> **[Habitly](https://play.google.com/store/apps/details?id=app.habitly)** - Habit tracker for building routines and maintaining daily consistency. · `Testing`
 
-<div align="center">
+### Web Products
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,nodejs,mongodb,python,java,c,php,git,github,vercel&perline=8&theme=dark" alt="React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Node.js, MongoDB, Python, Java, C, PHP, Git, GitHub and Vercel" />
+- <img src="./assets/icons/samast.png" width="24" height="24" align="center" alt="Samast icon" /> **[Samast](https://www.samast.pro/)** - All-in-one collection of practical web tools for everyday digital tasks. · `Live`
+- <img src="./assets/icons/samast-forms.png" width="24" height="24" align="center" alt="Samast Forms icon" /> **[Samast Forms](https://forms.samast.pro/)** - Lightweight platform for creating, sharing, and managing custom forms. · `Live`
+- <img src="./assets/icons/samast-cron.png" width="24" height="24" align="center" alt="Samast Cron icon" /> **[Samast Cron](https://cron.samast.pro/)** - Developer-focused platform for scheduling and monitoring cron jobs. · `Live`
+- <img src="./assets/icons/autoeod.svg" width="24" height="24" align="center" alt="AutoEOD icon" /> **[AutoEOD](https://autoeod.kachakaran.tech/)** - Automated end-of-day reporting platform for simplifying work updates. · `Live`
+- <img src="./assets/icons/ledgr.png" width="24" height="24" align="center" alt="Ledgr icon" /> **[Ledgr](https://ledgr.kachakaran.tech/)** - Lightweight digital ledger for tracking transactions and financial records. · `Live`
+- <img src="./assets/icons/samyukt.png" width="24" height="24" align="center" alt="Samyukt icon" /> **[Samyukt](https://www.samyukt.pro/)** - Technology platform focused on software, automation, and digital solutions. · `Live`
+- <img src="./assets/icons/beacon.png" width="24" height="24" align="center" alt="Beacon icon" /> **[Beacon](https://beacon.kachakaran.me/)** - Lightweight platform for collecting and managing application information. · `Live`
+- <img src="./assets/icons/vaultx.png" width="24" height="24" align="center" alt="VaultX Web icon" /> **[VaultX Web](https://beacon.kachakaran.me/)** - Web companion for managing VaultX data across platforms. · `Live`
+- <img src="./assets/icons/trust-tracker.png" width="24" height="24" align="center" alt="TrustTracker Web icon" /> **[TrustTracker Web](https://trusttracker.kachakaran.me/)** - Web companion for managing and viewing TrustTracker financial records. · `Live`
 
-</div>
+## Technology
 
-<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,nodejs,express,mongodb,postgres,supabase,python,java,c,php,git,github,docker,vercel&perline=10" alt="Technology stack" />
+</p>
 
-## GitHub Pulse
+| Area | Technologies |
+| --- | --- |
+| Software | React · Next.js · JavaScript · TypeScript |
+| Backend | Node.js · Express · REST APIs |
+| Databases | PostgreSQL · Supabase · MongoDB |
+| Mobile | Flutter · Android |
+| Infrastructure | Docker · Vercel · Render · Linux |
+| Tools | Git · GitHub · CI/CD · Automation |
+| Exploring | AI · Machine Learning · Deep Learning |
 
-<div align="center">
+## GitHub
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kachakaran6&theme=tokyonight" alt="Kacha Karan's GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kachakaran6&theme=tokyonight" alt="Repositories by language" />
+<p>
+  <a href="https://github.com/kachakaran6"><img src="https://img.shields.io/github/followers/kachakaran6?label=Followers&style=flat-square&color=24292f" alt="GitHub followers" /></a>
+  <a href="https://github.com/kachakaran6?tab=repositories"><img src="https://img.shields.io/github/stars/kachakaran6?label=Repository%20Stars&style=flat-square&color=24292f" alt="Repository stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kachakaran6&label=Profile%20Views&color=24292f&style=flat-square" alt="Profile views" />
+</p>
 
-<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kachakaran6&theme=tokyonight" alt="Kacha Karan's contribution details" />
+I use GitHub as my primary workspace for building, experimenting, maintaining, and shipping software.
 
-</div>
+[View repositories](https://github.com/kachakaran6?tab=repositories)
 
-> GitHub’s official achievement badges appear automatically in the **Achievements** area of the profile sidebar. I’ve intentionally removed the unreliable third-party trophy widget.
+## What I Like Building
 
-## Contribution Journey
+- Developer tools
+- SaaS products
+- Productivity applications
+- Automation systems
+- Financial utilities
+- Mobile applications
+- AI-powered software
+- Practical web platforms
 
-<div align="center">
+## Beyond Code
 
-<img src="https://raw.githubusercontent.com/kachakaran6/kachakaran6/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" />
+I enjoy learning by building.
 
-</div>
+Rather than only studying technologies individually, I prefer taking an idea, designing the system, writing the software, deploying it, finding what breaks, and improving it.
 
-<sub>The animation above requires the included workflow file to be added to the profile repository and run once.</sub>
+That process is where I learn the most.
 
-## Beyond the Code
+## Let's Connect
 
-- I care about products that solve genuine problems—not just impressive demos.
-- I enjoy learning by building, breaking, refining, and shipping.
-- I’m open to collaborating on thoughtful web products, SaaS ideas, and AI experiments.
-- Ask me about React, JavaScript, frontend architecture, or taking a product from idea to launch.
+Have an interesting product idea, technical problem, or something worth building?
 
-<br />
+<p>
+  <a href="https://kachakaran.me/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/kacha-karan-5337731b2/">LinkedIn</a> ·
+  <a href="https://github.com/kachakaran6">GitHub</a> ·
+  <a href="mailto:kachakaran06@gmail.com">Email</a>
+</p>
 
-<div align="center">
+---
 
-### Have an interesting idea?
-
-Let’s turn it into something people enjoy using.
-
-<a href="mailto:kachakaran06@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Start a conversation" /></a>
-
-<br /><br />
-
-<sub>Designed with intention. Built with curiosity.</sub>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,50:2563EB,100:06B6D4" alt="Footer" />
+<sub>Build useful things. Keep learning. Ship thoughtfully.</sub>

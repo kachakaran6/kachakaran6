@@ -6,8 +6,6 @@
 
 <div align="center">
 
-# Kacha Karan
-
 ### Software Engineer · Product Builder · AI Explorer
 
 I design and build useful digital products - from software and APIs to automation, infrastructure, and deployment.

@@ -6,11 +6,11 @@
 
 <div align="center">
 
-### Software Engineer · Product Builder · Systems & AI Explorer
+### Software Engineer · Product Builder · AI Explorer
 
-I engineer and deploy high-performance digital products — from local-first mobile utilities to cloud infrastructure, automated workflows, and developer platforms.
+I design and build useful digital products — from local-first mobile apps to cloud infrastructure, APIs, and automation.
 
-Founder of **[Samast](https://www.samast.pro/)** & **[Samyukt Ecosystem](https://samyukt.pro/)** · Based in India
+Founder of **[Samyukt](https://samyukt.pro/)** · Building **[Samast](https://www.samast.pro/)** · Based in India
 
 <p align="center">
   <a href="https://kachakaran.me/"><img src="https://img.shields.io/badge/Portfolio-kachakaran.me-0f766e?style=flat-square&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
